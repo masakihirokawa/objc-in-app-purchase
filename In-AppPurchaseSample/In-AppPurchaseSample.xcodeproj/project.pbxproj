@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C28169E11928713100DEBDF5 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C28169E01928713100DEBDF5 /* StoreKit.framework */; };
 		C299664319286CE20075AAE1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C299664219286CE20075AAE1 /* Foundation.framework */; };
 		C299664519286CE20075AAE1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C299664419286CE20075AAE1 /* CoreGraphics.framework */; };
 		C299664719286CE20075AAE1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C299664619286CE20075AAE1 /* UIKit.framework */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C28169E01928713100DEBDF5 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		C299663F19286CE20075AAE1 /* In-AppPurchaseSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "In-AppPurchaseSample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C299664219286CE20075AAE1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C299664419286CE20075AAE1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -87,6 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C28169E11928713100DEBDF5 /* StoreKit.framework in Frameworks */,
 				C299664519286CE20075AAE1 /* CoreGraphics.framework in Frameworks */,
 				C299664719286CE20075AAE1 /* UIKit.framework in Frameworks */,
 				C299664319286CE20075AAE1 /* Foundation.framework in Frameworks */,
@@ -128,6 +131,7 @@
 		C299664119286CE20075AAE1 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C28169E01928713100DEBDF5 /* StoreKit.framework */,
 				C299664219286CE20075AAE1 /* Foundation.framework */,
 				C299664419286CE20075AAE1 /* CoreGraphics.framework */,
 				C299664619286CE20075AAE1 /* UIKit.framework */,
@@ -579,6 +583,7 @@
 				C299667619286CE20075AAE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C299667719286CE20075AAE1 /* Build configuration list for PBXNativeTarget "In-AppPurchaseSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -587,6 +592,7 @@
 				C299667919286CE20075AAE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

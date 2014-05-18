@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  In-AppPurchaseSample
+
+  Created by Dolice on 2014/05/18.
+  Copyright (c) 2014年 Dolice. All rights reserved.
+*/
+
+"productPurchased"               = "ご購入ありがとうございます";
+"productRestoreStart"            = "過去に購入いただいたアイテムのため、無料でリストアします";
+"productRestored"                = "購入アイテムを復元しました";
+"errorBillingLimited"            = "アプリ内課金が制限されています";
+"errorNoResponse"                = "レスポンスがありません";
+"errorNetworkConnection"         = "ネットワークにアクセスできません";
+"errorInvalidItemID"             = "アイテムIDが無効です";
+"errorNotRestoreItem"            = "復元するアイテムがありませんでした";
+"errorSuccessRestore"            = "アイテムの復元に成功しました";
+"errorFailedRestore"             = "アイテムの復元に失敗しました";
+
+"alertYes"                       = "はい";
+"alertNo"                        = "いいえ";
+"alertOk"                        = "OK";
+"alertCancel"                    = "キャンセル";

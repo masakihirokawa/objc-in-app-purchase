@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  In-AppPurchaseSample
+
+  Created by Dolice on 2014/05/18.
+  Copyright (c) 2014年 Dolice. All rights reserved.
+*/
+
+"productPurchased"               = "Thank you for your purchase.";
+"productRestoreStart"            = "As this is an item you have purchased from us in the past, we will restore it for free.";
+"productRestored"                = "Your purchased item has been restored.";
+"errorBillingLimited"            = "There is a limit on purchases you can make from the app.";
+"errorNoResponse"                = "No response.";
+"errorNetworkConnection"         = "Cannot access network.";
+"errorInvalidItemID"             = "Invalid item ID.";
+"errorNotRestoreItem"            = "There are no items to restore.";
+"errorSuccessRestore"            = "Items successfully restored.";
+"errorFailedRestore"             = "Items failed to be restored.";
+
+"alertYes"                       = "Yes";
+"alertNo"                        = "No";
+"alertOk"                        = "OK";
+"alertCancel"                    = "Cancel";

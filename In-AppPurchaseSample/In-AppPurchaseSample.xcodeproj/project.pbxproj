@@ -30,6 +30,20 @@
 		C29966A019286FE90075AAE1 /* DCActivityIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = C299669B19286FE90075AAE1 /* DCActivityIndicator.m */; };
 		C29966A119286FE90075AAE1 /* DCDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = C299669D19286FE90075AAE1 /* DCDevice.m */; };
 		C29966A219286FE90075AAE1 /* DCUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = C299669F19286FE90075AAE1 /* DCUtil.m */; };
+		C2FD36631928765D005ABEA9 /* DCButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FD36601928765D005ABEA9 /* DCButton.m */; };
+		C2FD36641928765D005ABEA9 /* DCImage.m in Sources */ = {isa = PBXBuildFile; fileRef = C2FD36621928765D005ABEA9 /* DCImage.m */; };
+		C2FD36741928791E005ABEA9 /* button_purchase_disable_en.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD36671928791E005ABEA9 /* button_purchase_disable_en.png */; };
+		C2FD36751928791E005ABEA9 /* button_purchase_en.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD36681928791E005ABEA9 /* button_purchase_en.png */; };
+		C2FD36761928791E005ABEA9 /* button_purchase_en_o.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD36691928791E005ABEA9 /* button_purchase_en_o.png */; };
+		C2FD36771928791E005ABEA9 /* button_restore_disable_en.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD366A1928791E005ABEA9 /* button_restore_disable_en.png */; };
+		C2FD36781928791E005ABEA9 /* button_restore_en.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD366B1928791E005ABEA9 /* button_restore_en.png */; };
+		C2FD36791928791E005ABEA9 /* button_restore_en_o.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD366C1928791E005ABEA9 /* button_restore_en_o.png */; };
+		C2FD367A1928791E005ABEA9 /* button_purchase.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD366E1928791E005ABEA9 /* button_purchase.png */; };
+		C2FD367B1928791E005ABEA9 /* button_purchase_disable.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD366F1928791E005ABEA9 /* button_purchase_disable.png */; };
+		C2FD367C1928791E005ABEA9 /* button_purchase_o.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD36701928791E005ABEA9 /* button_purchase_o.png */; };
+		C2FD367D1928791E005ABEA9 /* button_restore.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD36711928791E005ABEA9 /* button_restore.png */; };
+		C2FD367E1928791E005ABEA9 /* button_restore_disable.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD36721928791E005ABEA9 /* button_restore_disable.png */; };
+		C2FD367F1928791E005ABEA9 /* button_restore_o.png in Resources */ = {isa = PBXBuildFile; fileRef = C2FD36731928791E005ABEA9 /* button_restore_o.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +96,22 @@
 		C299669D19286FE90075AAE1 /* DCDevice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCDevice.m; sourceTree = "<group>"; };
 		C299669E19286FE90075AAE1 /* DCUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCUtil.h; sourceTree = "<group>"; };
 		C299669F19286FE90075AAE1 /* DCUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCUtil.m; sourceTree = "<group>"; };
+		C2FD365F1928765D005ABEA9 /* DCButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCButton.h; sourceTree = "<group>"; };
+		C2FD36601928765D005ABEA9 /* DCButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCButton.m; sourceTree = "<group>"; };
+		C2FD36611928765D005ABEA9 /* DCImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCImage.h; sourceTree = "<group>"; };
+		C2FD36621928765D005ABEA9 /* DCImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DCImage.m; sourceTree = "<group>"; };
+		C2FD36671928791E005ABEA9 /* button_purchase_disable_en.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_purchase_disable_en.png; sourceTree = "<group>"; };
+		C2FD36681928791E005ABEA9 /* button_purchase_en.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_purchase_en.png; sourceTree = "<group>"; };
+		C2FD36691928791E005ABEA9 /* button_purchase_en_o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_purchase_en_o.png; sourceTree = "<group>"; };
+		C2FD366A1928791E005ABEA9 /* button_restore_disable_en.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_restore_disable_en.png; sourceTree = "<group>"; };
+		C2FD366B1928791E005ABEA9 /* button_restore_en.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_restore_en.png; sourceTree = "<group>"; };
+		C2FD366C1928791E005ABEA9 /* button_restore_en_o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_restore_en_o.png; sourceTree = "<group>"; };
+		C2FD366E1928791E005ABEA9 /* button_purchase.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_purchase.png; sourceTree = "<group>"; };
+		C2FD366F1928791E005ABEA9 /* button_purchase_disable.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_purchase_disable.png; sourceTree = "<group>"; };
+		C2FD36701928791E005ABEA9 /* button_purchase_o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_purchase_o.png; sourceTree = "<group>"; };
+		C2FD36711928791E005ABEA9 /* button_restore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_restore.png; sourceTree = "<group>"; };
+		C2FD36721928791E005ABEA9 /* button_restore_disable.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_restore_disable.png; sourceTree = "<group>"; };
+		C2FD36731928791E005ABEA9 /* button_restore_o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_restore_o.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +174,7 @@
 			isa = PBXGroup;
 			children = (
 				C299667A19286D330075AAE1 /* Classes */,
+				C2FD364219287635005ABEA9 /* Resources */,
 				C299664919286CE20075AAE1 /* Supporting Files */,
 			);
 			path = "In-AppPurchaseSample";
@@ -241,8 +272,63 @@
 				C299669D19286FE90075AAE1 /* DCDevice.m */,
 				C299669E19286FE90075AAE1 /* DCUtil.h */,
 				C299669F19286FE90075AAE1 /* DCUtil.m */,
+				C2FD365F1928765D005ABEA9 /* DCButton.h */,
+				C2FD36601928765D005ABEA9 /* DCButton.m */,
+				C2FD36611928765D005ABEA9 /* DCImage.h */,
+				C2FD36621928765D005ABEA9 /* DCImage.m */,
 			);
 			path = DCLibrary;
+			sourceTree = "<group>";
+		};
+		C2FD364219287635005ABEA9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C2FD364319287635005ABEA9 /* images */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C2FD364319287635005ABEA9 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				C2FD36651928791E005ABEA9 /* Button */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		C2FD36651928791E005ABEA9 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				C2FD36661928791E005ABEA9 /* en */,
+				C2FD366D1928791E005ABEA9 /* ja */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+		C2FD36661928791E005ABEA9 /* en */ = {
+			isa = PBXGroup;
+			children = (
+				C2FD36671928791E005ABEA9 /* button_purchase_disable_en.png */,
+				C2FD36681928791E005ABEA9 /* button_purchase_en.png */,
+				C2FD36691928791E005ABEA9 /* button_purchase_en_o.png */,
+				C2FD366A1928791E005ABEA9 /* button_restore_disable_en.png */,
+				C2FD366B1928791E005ABEA9 /* button_restore_en.png */,
+				C2FD366C1928791E005ABEA9 /* button_restore_en_o.png */,
+			);
+			path = en;
+			sourceTree = "<group>";
+		};
+		C2FD366D1928791E005ABEA9 /* ja */ = {
+			isa = PBXGroup;
+			children = (
+				C2FD366E1928791E005ABEA9 /* button_purchase.png */,
+				C2FD366F1928791E005ABEA9 /* button_purchase_disable.png */,
+				C2FD36701928791E005ABEA9 /* button_purchase_o.png */,
+				C2FD36711928791E005ABEA9 /* button_restore.png */,
+				C2FD36721928791E005ABEA9 /* button_restore_disable.png */,
+				C2FD36731928791E005ABEA9 /* button_restore_o.png */,
+			);
+			path = ja;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -322,11 +408,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FD36741928791E005ABEA9 /* button_purchase_disable_en.png in Resources */,
+				C2FD367D1928791E005ABEA9 /* button_restore.png in Resources */,
+				C2FD36791928791E005ABEA9 /* button_restore_en_o.png in Resources */,
+				C2FD36781928791E005ABEA9 /* button_restore_en.png in Resources */,
+				C2FD367F1928791E005ABEA9 /* button_restore_o.png in Resources */,
+				C2FD36761928791E005ABEA9 /* button_purchase_en_o.png in Resources */,
+				C2FD367C1928791E005ABEA9 /* button_purchase_o.png in Resources */,
 				C299669419286DC60075AAE1 /* Localizable.strings in Resources */,
+				C2FD36771928791E005ABEA9 /* button_restore_disable_en.png in Resources */,
 				C299665919286CE20075AAE1 /* Main_iPad.storyboard in Resources */,
 				C299665E19286CE20075AAE1 /* Images.xcassets in Resources */,
+				C2FD367A1928791E005ABEA9 /* button_purchase.png in Resources */,
 				C299665619286CE20075AAE1 /* Main_iPhone.storyboard in Resources */,
+				C2FD36751928791E005ABEA9 /* button_purchase_en.png in Resources */,
+				C2FD367B1928791E005ABEA9 /* button_purchase_disable.png in Resources */,
 				C299664D19286CE20075AAE1 /* InfoPlist.strings in Resources */,
+				C2FD367E1928791E005ABEA9 /* button_restore_disable.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,8 +443,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2FD36631928765D005ABEA9 /* DCButton.m in Sources */,
 				C299668D19286D330075AAE1 /* ViewController.m in Sources */,
 				C299668919286D330075AAE1 /* AppDelegate.m in Sources */,
+				C2FD36641928765D005ABEA9 /* DCImage.m in Sources */,
 				C29966A219286FE90075AAE1 /* DCUtil.m in Sources */,
 				C299668A19286D330075AAE1 /* NetworkActivityManager.m in Sources */,
 				C299668B19286D330075AAE1 /* Reachability.m in Sources */,
